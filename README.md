@@ -10,7 +10,7 @@ Just as simple as the tittle describes.
 
 ## using
 
-+ request
++ requests
 + pymongo
 + numpy
 + pandas
